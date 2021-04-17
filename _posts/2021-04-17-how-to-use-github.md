@@ -1,3 +1,8 @@
+---
+title: "How to Use GitHub"
+date: 2021-04-17
+---
+
 # How to Use GitHub
 
 GitHub is an amazing open source platform. It's so amazing, in fact, that this blog was made on it! *[See SpeedoThreeSixty's blog.](https://javascriptlearner815.github.io/blog/)*
